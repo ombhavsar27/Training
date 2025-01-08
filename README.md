@@ -1,2 +1,2 @@
 # Training
-Training done on AIML
+Training done in AIML
